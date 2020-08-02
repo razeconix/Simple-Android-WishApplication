@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WishApplication</string>
+    <string name="wish_id">Wish ID</string>
+    <string name="name">สิ่งที่อยากได้</string>
+    <string name="type">ประเภท</string>
+    <string name="price">ราคา</string>
+    <string name="amount">เงินเก็บ</string>
+    <string name="save">บันทึก</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="delete">ลบ</string>
+    <string name="choose">เลือก</string>
+    <string name="edit">แก้ไข</string>
+    <string name="balance">เพิ่มเงินเก็บ</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+
+    <string name="storage_permission_rationale_title">Storage permission required</string>
+    <string name="storage_permission_rationale_message">In order to take a picture, you must grant this permission!</string>
+    <string name="storage_permission_denied_message">Storage permission is required in order to take a photo with the camera</string>
+
+</resources>
